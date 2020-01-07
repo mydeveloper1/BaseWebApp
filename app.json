@@ -1,7 +1,7 @@
 {
   "name": "Build Your First Webapp",
   "description": "A barebones Node.js app using Express 4",
-  "repository": "",
+  "repository": "https://github.com/mydeveloper1/BaseWebApp",
   "logo": "",
   "keywords": ["node", "express", "static"],
   "image": "heroku/nodejs"
